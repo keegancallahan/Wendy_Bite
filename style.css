@@ -1,0 +1,52 @@
+body {
+  background-color: #444444;
+  max-width: 560px;
+  float: center;
+  margin:auto;
+  border: 4px solid #c0c0c0;
+  padding: 50px;
+  font-family: helvetica, sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+ul {
+  float: left;
+  color: white;
+}
+a{
+  color: lightgreen;
+}
+h2{
+  color: white;
+}
+img {
+    float: right;
+    height: 250px;
+    width: 225px;
+}
+nav {
+  text-align: center;
+  color: white;
+}
+p{
+  color: white;
+}
+h3{
+  color: silver;
+}
+a:active {
+    color: white;
+}
+li{
+  color: white;
+}
+small {
+  color: silver;
+}
+span {
+  color: silver;
+}
